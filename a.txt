@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Test file main
+=======
+Test file special
+>>>>>>> special
